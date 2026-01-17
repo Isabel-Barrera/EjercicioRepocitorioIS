@@ -22,6 +22,8 @@
   <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 <body>
+<marquee><h1>TSS Proyecto Final % de avance 30% </h1></marquee>
+<hr>
   <div class="card">
     <h2>Ventas mensuales BARRERA</h2>
 
